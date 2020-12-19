@@ -1,19 +1,11 @@
 ### Hi there, I'm Ayushma Sharma. 👋
 
 
-
-
 <br>
-<br>
-
-- 🔭 I’m currently pursuing B.Tech. in Computer Science.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on different projects.
-- 💬 Ask me about tech related stuffs.
-- 📫 How to reach me: <a href="https://twitter.com/AyushmaSharma8">
+<a href="https://twitter.com/AyushmaSharma8">
   <img align="left" alt="Ayushma's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/ayushma-sharma-548633191">
+<a href="https://linkedin.com/in/ayushma-sharma-548633191">
   <img align="left" alt="Ayushma's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ayushmasharma">
@@ -22,6 +14,23 @@
 <a href="https://instagram.com/ayushma._.sharma_/">
   <img align="left" alt="Ayushma's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am no more alive.
 
+<br>
+<br>
+
+- 🔭 I’m currently pursuing B.Tech. in Computer Science.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on different projects.
+- 💬 Ask me about tech related stuffs.
+- 📫 How to reach me: 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am no longer alive.
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
