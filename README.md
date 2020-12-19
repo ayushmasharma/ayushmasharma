@@ -22,10 +22,11 @@
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on different projects.
 - 💬 Ask me about tech related stuffs.
-- 📫 How to reach me: 
+- 📫 How to reach me: [Twitter - @AyushmaSharma8](https://twitter.com/AyushmaSharma8) , [LinkedIn - @ayushma-sharma](https://linkedin.com/in/ayushma-sharma-548633191)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am no longer alive.
 
+<br>
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
