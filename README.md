@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning React. 
 - 👯 I’m looking to collaborate on different projects.
 - 💬 Ask me about tech related stuffs.
-- 📫 How to reach me: Drop a mail at ayushmasharma63@gmail.com <img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+- 📫 How to reach me: Drop a mail at ayushmasharma63@gmail.com  <img width="18px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can sleep whole day.
 
