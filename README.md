@@ -3,18 +3,20 @@
 
 <br>
 <a href="https://twitter.com/AyushmaSharma8">
-  <img align="left" alt="Ayushma's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ayushma's Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/ayushma-sharma-548633191">
-  <img align="left" alt="Ayushma's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ayushma's Linkedin" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://github.com/ayushmasharma">
-  <img align="left" alt="Ayushma's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ayushma's Github" width="22px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
 </a>
 <a href="https://instagram.com/ayushma._.sharma_/">
-  <img align="left" alt="Ayushma's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ayushma's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
-
+<a href="https://instagram.com/ayushma._.sharma_/">
+  <img align="left" alt="Ayushma's Instagram" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
+</a>
 <br>
 <br>
 
@@ -22,7 +24,7 @@
 - 🌱 I’m currently learning React. 
 - 👯 I’m looking to collaborate on different projects.
 - 💬 Ask me about tech related stuffs.
-- 📫 How to reach me: Drop a mail at ayushmasharma63@gmail.com  <img width="18px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+- 📫 How to reach me: Drop me a mail at ayushmasharma63@gmail.com  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can sleep whole day.
 
