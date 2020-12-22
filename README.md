@@ -1,4 +1,4 @@
-### Hi there, I'm Ayushma Sharma. 👋
+### Hi there, I'm Ayushma Sharma. <code><img height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"></code>
 
 
 <br>
