@@ -14,9 +14,13 @@
 <a href="https://instagram.com/ayushma._.sharma_/">
   <img align="left" alt="Ayushma's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
-<a href="https://instagram.com/ayushma._.sharma_/">
-  <img align="left" alt="Ayushma's Instagram" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
+<a href="https://www.hackerrank.com/ayushmasharma63">
+  <img align="left" alt="Ayushma's HackerRank" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
 </a>
+<a href="https://medium.com/@ayushmasharma63">
+  <img align="left" alt="Ayushma's Medium" width="22px" src="https://cdn.svgporn.com/logos/medium.svg" />
+</a>
+
 <br>
 <br>
 
