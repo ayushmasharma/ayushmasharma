@@ -8,9 +8,6 @@
 <a href="https://linkedin.com/in/ayushma-sharma-548633191">
   <img align="left" alt="Ayushma's Linkedin" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="https://github.com/ayushmasharma">
-  <img align="left" alt="Ayushma's Github" width="22px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
-</a>
 <a href="https://instagram.com/ayushma._.sharma_/">
   <img align="left" alt="Ayushma's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
