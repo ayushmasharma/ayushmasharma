@@ -16,7 +16,8 @@
   <img align="left" alt="Ayushma's Medium" width="22px" src="https://cdn.svgporn.com/logos/medium.svg" />
 </a>
 <br>
-<br>
+<br><br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
 </p>
@@ -40,5 +41,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
-
 
