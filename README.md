@@ -1,6 +1,4 @@
 ### Hi there, I'm Ayushma Sharma. <img height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
-
-
 <br>
 <a href="https://twitter.com/AyushmaSharma8">
   <img align="left" alt="Ayushma's Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
@@ -19,14 +17,16 @@
 </a>
 <br>
 <br>
+<p align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
+</p>
 <br>
 
-- 🔭 I’m currently pursuing B.Tech. in Computer Science.
+- 🔭 I’m currently pursuing B.Tech. in Computer Science. 👩🏻‍🎓
 - 🌱 I’m currently learning React. 
-- 👯 I’m looking to collaborate on different projects.
+- 👯 I’m looking to collaborate on Web Development projects. 
 - 💬 Ask me about tech related stuffs.
-- 📫 How to reach me: Drop me a mail at ayushmasharma63@gmail.com  
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I can sleep whole day.
 
 <br>
