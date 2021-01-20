@@ -27,6 +27,7 @@
 - 🌱 I’m currently learning React. 
 - 👯 I’m looking to collaborate on Web Development projects. 
 - 💬 Ask me about tech related stuffs.
+- 📫 How to reach me: Drop me a mail at ayushmasharma63@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I can sleep whole day.
 
