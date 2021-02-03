@@ -13,7 +13,7 @@
   <img align="left" alt="Ayushma's HackerRank" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
 </a>
 <a href="https://medium.com/@ayushmasharma63">
-  <img align="left" alt="Ayushma's Medium" width="22px" src="https://cdn.svgporn.com/logos/medium-icon.svg" />
+  <img align="left" alt="Ayushma's Medium" width="22px" height="25px" src="https://cdn.svgporn.com/logos/medium-icon.svg" />
 </a>
 <br>
 <br><br>
