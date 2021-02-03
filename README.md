@@ -13,7 +13,7 @@
   <img align="left" alt="Ayushma's HackerRank" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
 </a>
 <a href="https://medium.com/@ayushmasharma63">
-  <img align="left" alt="Ayushma's Medium" width="22px" src="https://cdn.svgporn.com/logos/medium.svg" />
+  <img align="left" alt="Ayushma's Medium" width="22px" src="https://cdn.svgporn.com/logos/medium-icon.svg" />
 </a>
 <br>
 <br><br>
@@ -25,8 +25,8 @@
 
 - 🔭 I’m currently pursuing B.Tech. in Computer Science. 👩🏻‍🎓
 - 🌱 I’m currently learning React. 
-- 👯 I’m looking to collaborate on Web Development projects. 
-- 💬 Ask me about tech related stuffs.
+- 👯 I’m looking to collaborate on Web and App Development projects. 
+- 💬 Ask me about Tech Related stuffs.
 - 📫 How to reach me: Drop me a mail at ayushmasharma63@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I can sleep whole day.
