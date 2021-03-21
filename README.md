@@ -1,4 +1,4 @@
-### Hi there, I'm Ayushma Sharma. <img height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
+## Hi there, I'm Ayushma Sharma. <img height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 <br>
 <a href="https://twitter.com/AyushmaSharma8">
   <img align="left" alt="Ayushma's Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
