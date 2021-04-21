@@ -2,19 +2,19 @@
 <br>
 
 <a href="https://twitter.com/AyushmaSharma8">
-  <img align="left" alt="Ayushma's Twitter" width="40px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <img align="left" alt="Ayushma's Twitter" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/ayushma-sharma-548633191">
-  <img align="left" alt="Ayushma's Linkedin" width="40px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  <img align="left" alt="Ayushma's Linkedin" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://instagram.com/ayushma._.sharma_/">
-  <img align="left" alt="Ayushma's Instagram" width="40px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <img align="left" alt="Ayushma's Instagram" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/ayushmasharma63">
-  <img align="left" alt="Ayushma's HackerRank" width="40px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
+  <img align="left" alt="Ayushma's HackerRank" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
 </a>
 <a href="https://medium.com/@ayushmasharma63">
-  <img align="left" alt="Ayushma's Medium" width="40px" height="30px" src="https://cdn.svgporn.com/logos/medium-icon.svg" />
+  <img align="left" alt="Ayushma's Medium" width="30px" height="30px" src="https://cdn.svgporn.com/logos/medium-icon.svg" />
 </a>
 <br>
 <br><br>
