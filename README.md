@@ -1,5 +1,6 @@
 ### Hi there, I'm Ayushma Sharma.<img height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 <br>
+
 <a href="https://twitter.com/AyushmaSharma8">
   <img align="left" alt="Ayushma's Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
@@ -27,8 +28,8 @@
 <h3 align="left">👩🏻‍💻 About Me:</h3>
 
 - 🔭 I’m currently pursuing B.Tech. in Computer Science. 👩🏻‍🎓
-- 💻 I'm currently working on MERN Stack
-- 👯 I’m looking to collaborate on Web and App Development projects. 
+- 💻 I'm currently working on MERN Stack. 
+- 👯 Always open to collaborate on Web and App Development projects. 
 - 💬 Ask me about Tech Related stuffs.
 - 📫 How to reach me: Drop me a mail at ayushmasharma63@gmail.com
 - 😄 Pronouns: She/Her 
@@ -45,5 +46,4 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="35"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="35"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="35"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="35"/> </a>
     </p> 
