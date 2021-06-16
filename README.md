@@ -1,4 +1,4 @@
-# Hello! <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
+# Hello! <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 <br>
 
 <a href="https://twitter.com/AyushmaSharma8">
@@ -27,13 +27,13 @@
 
 <h3 align="left">👩🏻‍💻 About Me:</h3>
 
-- 🔭 I’m currently pursuing B.Tech. in Computer Science. 👩🏻‍🎓
-- 💻 I'm currently working on MERN Stack. 
-- 👯 Always open to collaborate on Web and App Development projects. 
-- 💬 Ask me about Tech Related stuffs.
-- 📫 How to reach me: Drop me a mail at ayushmasharma63@gmail.com
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> I’m currently pursuing B.Tech. in Computer Science. 👩🏻‍🎓
+- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25"> I'm currently working on MERN Stack. 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Always open to collaborate on Web and App Development projects. 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about Tech Related stuffs.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: Drop me a mail at ayushmasharma63@gmail.com
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I can sleep whole day.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: I can sleep whole day.
   
 <br>
 
@@ -47,4 +47,4 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/> </a>
     </p> 
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
