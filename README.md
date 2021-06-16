@@ -27,13 +27,13 @@
 
 <h3 align="left">👩🏻‍💻 About Me:</h3>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> I’m currently pursuing B.Tech. in Computer Science. 👩🏻‍🎓
-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25"> I'm currently working on MERN Stack. 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Always open to collaborate on Web and App Development projects. 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about Tech Related stuffs.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: Drop me a mail at ayushmasharma63@gmail.com
-- 😄 Pronouns: She/Her 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: I can sleep whole day.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />&nbsp; I’m currently pursuing B.Tech. in Computer Science. 👩🏻‍🎓
+- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25"> &nbsp;I'm currently working on MERN Stack. 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> &nbsp;&nbsp;Always open to collaborate on Web and App Development projects. 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp;Ask me about Tech Related stuffs.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;How to reach me: Drop me a mail at ayushmasharma63@gmail.com
+- 😄 &nbsp;&nbsp;Pronouns: She/Her 
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;Fun fact: I can sleep whole day.
   
 <br>
 
